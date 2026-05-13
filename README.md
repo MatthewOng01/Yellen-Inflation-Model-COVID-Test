@@ -1,4 +1,3 @@
-# Yellen-Inflation-Model-COVID-Test
 # Replication and Extension of Yellen (2015) Inflation Model to the COVID Period
 
 ## Overview
