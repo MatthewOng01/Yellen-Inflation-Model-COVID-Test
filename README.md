@@ -100,3 +100,9 @@ Estimation Method:
 - tidyverse
 - stargazer (for regression tables)
 
+---
+
+**Matthew Ong · Real Estate & Economic Analysis**
+
+[LinkedIn](https://linkedin.com/in/matthewong01) · [GitHub](https://github.com/matthewong01)
+
